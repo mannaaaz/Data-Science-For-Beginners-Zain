@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education |improving the education process for children in schools | children attendance reports/grades/test scores - teachers qualifications |relational database in schools/educational database |relationship between a student's attendance and grades - relationship/correlation between a teacher's qualification - helps in dentifying students who are struggling and needs additional support |
+| Vaccination |controling vaccination during the pandemic | number of vaccinated people - number of programs for awarness about vaccination - number of unvaccinated people - number of medical staff - number of vaccinations available |relational database (SQL) in hospitals/healthcare systems/secure government databases| correlation between # of vaccinated people and # of vaccinations available - relationship between # of programs for awarness about vaccination and # of unvaccinated people - can help ensure equitable access|
+| Productivity | make sure employees are being productive at work | # of tasks achieved - how many times a person leaves hes/her desktop - employees communication data - employees feedback |relational database (SQL) in company's database|relationship between # of tasks achieved and how many times a person leaves hes/her desktop - can reveal collaboration patterns |
 
 ## Rubric
 
